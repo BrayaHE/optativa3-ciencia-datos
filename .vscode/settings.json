@@ -1,3 +1,5 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python.defaultInterpreterPath": "/home/maquiavelico/Documentos/optativa3-ciencia-datos/.venv/bin/python",
+    "python.terminal.activateEnvironment": trueentos/optativa3-ciencia-datos/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
 }
